@@ -41,6 +41,12 @@ On peut écrire des notes ici.
 * La notion d'éditorialisation <!-- .element: class="fragment" -->
 
 
+===
+Tout est écriture
+Donc la littérature participe de la création de l'espace
+Auteur vs plateformes
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
