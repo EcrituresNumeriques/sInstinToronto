@@ -31,9 +31,15 @@ On peut écrire des notes ici.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
+<!-- .slide: data-background-image="img/espace.jpg" -->
 
 ## Problématique générale
+
+* Écriture à l'époque du numérique <!-- .element: class="fragment" -->
+  * écriture et espace <!-- .element: class="fragment" -->
+  * écriture et littérature <!-- .element: class="fragment" -->
+* La notion d'éditorialisation <!-- .element: class="fragment" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
