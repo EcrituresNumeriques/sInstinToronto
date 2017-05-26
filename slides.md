@@ -15,16 +15,16 @@ CSDH-SCHN 2017 - Congress 2017 @ Toronto
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
-
+<!-- .slide: class="hover"-->
 
 ### Sommaire
 
 * Problématique générale
 * Le cas Instin
-* Questions de recherche
-* Question littéraire
-* Question dispositive
-* Question ontologique
+* Questions de recherche :
+  1. Question littéraire
+  2. Question dispositive
+  3. Question ontologique
 * Conclusion
 
 ===
@@ -32,15 +32,30 @@ CSDH-SCHN 2017 - Congress 2017 @ Toronto
 On peut écrire des notes ici.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
+<!-- .slide: class="hover"-->
+
+### Test
+
+Coucou !
+
+* Problématique générale
+* Le cas Instin
+* Questions de recherche :
+
+> CItation !!
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 <!-- .slide: data-background-image="img/espace.jpg" -->
+<!-- .slide: class="hover"-->
 
 ## Problématique générale
 
-* Qu'est-ce que l'écriture à l'époque du numérique <!-- .element: class="fragment" -->
-  * écriture et espace <!-- .element: class="fragment" -->
-  * écriture et littérature <!-- .element: class="fragment" -->
-* Comment se transforment la production, la circulation et la légitimation des contenus? <!-- .element: class="fragment" -->
+* Qu'est-ce que l'écriture à l'époque du numérique
+  * écriture et espace
+  * écriture et littérature
+* Comment se transforment la production, la circulation et la légitimation des contenus?
 
 
 ===
@@ -209,10 +224,13 @@ média - milieu
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+
 ## Question dispositive
-<!-- .slide: data-background-image="http://vitalirosati.net/slides/img/editoMontreal.png" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/vitrailOriginal.png" -->
+
 
 ### Dispositif GI ?
 
@@ -224,6 +242,17 @@ média - milieu
   * oui, mais en fait non.
 
 *
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/Composition3Graphes.png" data-background-size="contain" -->
+
+### _dispositive_
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/20170509_3_remue1524.png" -->
+
+### Milieu
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### GI, un rhizome ?
