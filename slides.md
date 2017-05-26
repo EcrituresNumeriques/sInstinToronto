@@ -160,11 +160,14 @@ forme anthologique
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="/home/nicolas/Vidéos/RueInstin-leFilm_big.mp4" -->
+
 ### Oralité, le retour
 
-<iframe src="http://player.vimeo.com/video/138619730?title=0&amp;byline=0&amp;portrait=0&amp;color=7BA1D4" width="550" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-source: https://vimeo.com/138619730 <!-- .element: class="source" -->
+source: https://vimeo.com/138619730
+
+<!-- .element: class="source" -->
 
 
 > citation Zumthor
