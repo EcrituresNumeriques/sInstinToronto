@@ -47,7 +47,7 @@ Coucou !
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-<!-- .slide: data-background-image="img/espace.jpg" -->
+<!-- .slide: data-background-image="img/0-ordonnancement_rubrique_105vagues.jpg" data-background-size="contain"--->
 <!-- .slide: class="hover"-->
 
 ## Problématique générale
@@ -65,6 +65,8 @@ Comment changent les dispositifs d'écriture (production/ circulation / légitim
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/generalinstinVitral.jpg" -->
+
 ## Le cas Instin
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -76,6 +78,13 @@ Comment changent les dispositifs d'écriture (production/ circulation / légitim
 
 Notes de présentation
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
+
+source image : remue.net/  <!-- .element: class="source" -->
+===
+
+Notes de présentation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-026.png" data-background-size="contain" -->
@@ -134,6 +143,8 @@ Notes de présentation
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
+
 ## Axes de recherche
 
 1. Question littéraire
@@ -142,10 +153,11 @@ Notes de présentation
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/00-schema1-01floucinetique-2.jpg" data-background-size="contain" -->
+
 ## Question littéraire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-### Littérature Brouhaha
 
 > « Publier » retourne à son sens originel : rendre public, passer de l’expression privée destinée à des correspondants précis à l’expression pour des publics de plus en plus divers.
 >
@@ -195,6 +207,8 @@ poiesis (le _faire_), poésie et poème
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/iLoveInstin.jpeg" data-background-size="contain" -->
+
 ### GI est-il :
 
 * un objet intermédial ?
@@ -229,8 +243,8 @@ média - milieu
 ## Question dispositive
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/vitrailOriginal.png" -->
 
+<!-- .slide: data-background-image="img/rubon622.jpg"  -->
 
 ### Dispositif GI ?
 
@@ -241,7 +255,6 @@ média - milieu
 * absence de dispositif ?
   * oui, mais en fait non.
 
-*
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/Composition3Graphes.png" data-background-size="contain" -->
@@ -255,6 +268,9 @@ média - milieu
 ### Milieu
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/textopoly3.jpg" data-background-size="contain" -->
+
 ### GI, un rhizome ?
 
 ===
@@ -262,6 +278,7 @@ média - milieu
 pour lancer Enrico
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
 ### Machine de guerre
 
 ===
@@ -316,6 +333,7 @@ Vitali-Rosati, Qu'est-ce que l'éditorialisation?, Sens public 2016
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
 ## L'espace
 
 - Espace mathématique et espace social
@@ -327,6 +345,8 @@ On a dit que l'édito produit l'espace: mais qu'est-ce que l'espace?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/panInstin.png" -->
+
 ## Espace numérique
 
 - un espace architectural
@@ -335,6 +355,8 @@ On a dit que l'édito produit l'espace: mais qu'est-ce que l'espace?
 - un espace en mouvement
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/instinDoeuvre.png" -->
+
 ## Espace et autorité
 
 - espace et _nomos_
@@ -344,6 +366,8 @@ On a dit que l'édito produit l'espace: mais qu'est-ce que l'espace?
 Enrico doit faire le lien vers la question ontologique
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/reveGeneral.png" -->
+
 ## Question ontologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -390,6 +414,7 @@ des spins-offs (publications papier sous le nom d'Instin):
 L'aspect anthologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/arton2702.jpg" data-background-size="contain"-->
 
 ### Histoire et mémoire collective
 
@@ -405,6 +430,8 @@ du réel au récit : le point d'origine
 et comment l'un façonne l'autre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/vitrailOriginal.jpg"-->
+
 ### Pourquoi le GI ?
 
 Qu'est ce qui a permis à GI de fonctionner ?
@@ -420,6 +447,7 @@ La symbolique du général
 les ingrédients du mème
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### la question du mythe
 
 ===
@@ -428,6 +456,7 @@ les ingrédients du mème
 histoire ou récit ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/G.I.-15h26--.jpg" data-background-size="contain"-->
 
 ### Imaginaire/réel
 
@@ -439,7 +468,7 @@ P. Valéry
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+<!-- .slide: data-background-image="img/archive.png" -->
 ## Archiver Instin
 
 ===
