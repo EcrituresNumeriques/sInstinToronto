@@ -303,6 +303,10 @@ body {
   font-size: 0.2em;
 }
 
+.reveal section.hover {
+  background: rgba(0,0,0,0.2);
+  padding: 0px 0px 20px 0px;
+}
 
 .reveal section img.logo {
   border: none;
