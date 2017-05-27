@@ -65,7 +65,7 @@ Comment changent les dispositifs d'écriture (production/ circulation / légitim
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/generalinstinVitral.jpg" -->
+<!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
 
 ## Le cas Instin
 
@@ -207,7 +207,7 @@ poiesis (le _faire_), poésie et poème
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/iLoveInstin.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
 
 ### GI est-il :
 
@@ -388,7 +388,7 @@ mais aussi d'autres formes de visualisation
   * on a observé que les frontières* n'étaient pas si évidentes : frontières temporelles et spatiales de l'objet
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-![montage documents historiques](img/)
+<!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
 
 ### Origine(s)
 
@@ -401,7 +401,7 @@ frontières : quand GI commence ??
 on ne répond pas à la question
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-![montage SpinOff](img/)
+<!-- .slide: data-background-image="img/instinPapier.png" -->
 
 ### Spin-offs
 
@@ -447,6 +447,7 @@ La symbolique du général
 les ingrédients du mème
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/delphine5.jpg"-->
 
 ### la question du mythe
 
