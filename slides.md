@@ -1,17 +1,17 @@
 ## Éditorialisation et littérature: le cas du Général Instin
 &nbsp;
 
-Enrico Agostini-Marchese, Servanne Monjour, Nicolas Sauret, Marcello Vitali-Rosati
+Enrico Agostini-Marchese, Servanne Monjour,  
+Nicolas Sauret, Marcello Vitali-Rosati
 
-![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
-<img src="img/LogoENDT10-2016.png" width="30%"> <!-- .element: class="logo" -->
+CSDH-SCHN 2017 - Congress 2017 @ Toronto  
+29-31 mai 2017
 
-CSDH-SCHN 2017 - Congress 2017 @ Toronto
-<small>  
-29-31 mai 2017</small>
+<!-- .element: style="font-size:1.4rem" -->
 
-
+![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
@@ -119,16 +119,44 @@ Notes de présentation
 ### Méthodologie
 
 1.  Recherche et collecte du corpus
-2.  Chaine d'archivage et d'édition
+2.  Chaîne d'archivage et d'édition
 3.  Exploration des données
 4.  Réflexion épistémologique sur le projet
-
-![workflow](img/data-workflow.png)
 
 ===
 
 Notes de présentation
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/inventaireAtom.png" -->
+<!-- .slide: class="hover"-->
+
+### _inventaire.xml_
+
+* Captation + indexation :
+
+  1. Exploration du corpus par propagation hypertextuelle
+  2. Captation systématique (en cours)
+  3. Ajout de sources antérieures à GI
+
+Actuellement <i class="fa fa-arrow-right"></i> 74 _manifestations_ (dont 90% sources web)
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/data-workflow.png" data-background-size="contain" -->
+
+===
+
+on retrouve l'inventaire, les sources et la captation web des sources,
+un script vient encoder ces sources en TEI.
+
+choix de la TEI : une approche initialement centrée sur le texte, même si on se rend compte progressivement à quel point les médias sont essentiels dans le paysage que dessine le corpus.
+
+Par ailleurs, le passage d'un format HTML à un autre format fait sens dans cette démarche de production d'une archive, nécessité de distinguer les deux objets, que l'un ne soit pas simplement une copie de l'autre. Et nous reviendrons sur les effets et les refléxions que cette démarche a pu amener en dernière partie.
+
+Le choix reste pertinent dans tous les cas, car la TEI nous donne toute latitude pour intégrer dans chacun des éléments les métadonnées d'archive dont nous avons besoin.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
@@ -176,7 +204,7 @@ forme anthologique
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="/home/nicolas/Vidéos/RueInstin-leFilm_big.mp4" -->
+<!-- .slide: data-background-video="/home/nicolas/Vidéos/extrait-instin.mp4" -->
 
 ### Oralité, le retour
 
@@ -189,6 +217,8 @@ source: https://vimeo.com/138619730
 > citation Zumthor
 
 ===
+
+video : 9min + 11min30
 
 oralité et performance
 origine de la littérature : Epopée, poésie médievale
@@ -267,7 +297,7 @@ Pour Agemben :
 Agamben fait une Partition générale et massive de l'être entre :
 
 1. les êtres vivants (ou les substances) : l'ontologie des créatures
-2. les dispositifs à l'intérieur desquels les êtres ne cessent d'être _saisis_.
+2. les dispositifs, à l'intérieur desquels les êtres ne cessent d'être _saisis_.
 
 [Citation Agamben]
 
@@ -277,7 +307,7 @@ Le dispositif revêt notamment un caractère déterministe, en particulier chez 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/rubon622.jpg"  -->
+<!-- .slide: data-background-image="img/rubon622.jpg" -->
 
 ### Dispositif GI ?
 
@@ -285,10 +315,14 @@ Le dispositif revêt notamment un caractère déterministe, en particulier chez 
 
 Ainsi la première question que l'on s'est posé  : quel est le dispositif Instin ? Quel est l'agencement des forces et des autorités qui ont engendré son écriture.
 
-La première intuition, est bien sûr qu'il n'y a pas de dispositif. Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc. Cette intuition est aussi renforcée par le prolongement dans le temps, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire.
+Qui écrit ? où, mais aussi comment écrit on Instin ? Y a t il des motifs récurrents et si oui, d'où viennent-ils ? cad aussi, qu'est ce qui _prédispose_ l'écriture du GI ?
+
+La première intuition, est bien sûr qu'il n'y a pas de dispositif. Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc.
+
+Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique (rhétorique dispositive).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/vitrailOriginal.jpg"  -->
+<!-- .slide: data-background-image="img/vitrailOriginal.jpg"   data-background-size="contain"  -->
 
 ===
 
@@ -296,7 +330,7 @@ Productions touffue, oeuvre indéfinissable, collectif multi-forme, ou plutôt �
 
 [Vitrail]
 
-Enfin, c'est l'effacement des auteurs, derrière la figure du général, tout à la fois sujet, narrateur, auteur.
+Enfin, c'est l'effacement des auteurs, derrière la figure du général, tout à la fois sujet, narrateur, auteur. Plusieurs manifestations ne sont pas signées du général instin, ou bien encore ne le sont pas du tout.
 
 Toutes ces raisons laissent penser que le dispositif est absent.
 
@@ -310,6 +344,8 @@ Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal
 ===
 
 En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
+
+Ici, un exemple de fouille de données qui a consisté à extraire tous les liens contenus dans le corps de texte du corpus et à produire une matrice d'adjacence à partir de ces liens. Cela nous donne un réseau de documents que nous avons pu spatialiser.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -403,7 +439,7 @@ Enrico est lancé
 Enrico lance Marcello sur l'éditorialisation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-## La notion d'éditorialisation
+### La notion d'éditorialisation
 
 
 * 2004-2007: apparition du mot
@@ -424,18 +460,18 @@ poutant ça produit une émergence de sens
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-## La notion d'éditorialisation
+### La notion d'éditorialisation
 
+>«L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.»
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
-
->L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.
-
-Vitali-Rosati, Qu'est-ce que l'éditorialisation?, Sens public 2016
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-## Caractéristiques de l'éditorialisation
+### Caractéristiques de l'éditorialisation
 
 - ouverte
   - plusieurs plateformes
@@ -452,7 +488,7 @@ Vitali-Rosati, Qu'est-ce que l'éditorialisation?, Sens public 2016
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
 <!-- .slide: class="hover"-->
 
-## L'espace
+### L'espace
 
 - Espace mathématique et espace social
 - L'espace porte des valeurs - le nomos de Schmitt (cf. Agostini-Marchese)
@@ -599,17 +635,30 @@ P. Valéry
 ===
 
 éditorialisation de l'archive et conséquence ontologique
-totaliser Instin
 
+La question du statut des manifestations :
+  * entre l'origine historique
+  * les premières manifestations littéraires
+  * les origines du projet GI
+  * les documentations de performance ou d'ateliers
+  * les visuels des graphes : où se place l'écriture ? qu'est ce qui participe à Instin : l'acte de peindre dans la rue, la captation photographique, la publication de la photographie sur un blog ?
+
+tentative vaine de totalisation
+
+l'archive comme miroir de GI
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ### Merci !
 
-<small>à suivre sur [nicolassauret.net/behindinstin](http://nicolassauret.net/behindinstin)</small>
+à suivre sur [nicolassauret.net/behindinstin](http://nicolassauret.net/behindinstin)
 
-<small> @servanneM ; @nicolasauret ; @monterosato ; @enrico </small>
 
-![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
-<img src="img/LogoENDT10-2016.png" width="30%"> <!-- .element: class="logo" -->
+CSDH-SCHN 2017 - Congress 2017 @ Toronto  
+29-31 mai 2017
+
+<!-- .element: style="font-size:1.4rem" -->
+
+![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
