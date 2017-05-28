@@ -176,6 +176,38 @@ Le choix reste pertinent dans tous les cas, car la TEI nous donne toute latitude
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+
+### De Hinstin à Instin
+
+* Une contrainte créative
+* Un personnage de fiction
+* L'Histoire et l'histoire
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/editionInstin.jpg" -->
+
+### Un modèle hors-livre
+
+* Occupation des marges
+* Dissémination sur plusieurs supports/plateformes
+* Investissement de l'espace public
+
+===
+
+Problème éditorial, car GI se conçoit principalement dans un "hors-livre".
+Depuis le squat de la Grange aux belles, il s'inscrit relativement à la marge - par "marge" on entend celles, principalement, des institutions littéraires mais encore plus éditoriales. Instin est généré dans :
+- atelier d'écriture
+- revues littéraires
+- revue en ligne (Remue)
+- sites web
+- réseaux sociaux
+Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Il occupe l'espace public - en même temps que l'espace public se redéfini lui-même, sous l'impulsion du numérique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Une littérature "brouhaha"
+
 > « Publier » retourne à son sens originel : rendre public, passer de l’expression privée destinée à des correspondants précis à l’expression pour des publics de plus en plus divers.
 >
 > [C]ette multitude d’espaces publics caractérise le moment contemporain de la littérature, comme la sphère publique de la Littérature caractérisait sa représentation moderne. Si ces espaces publics ont toujours existé, même lorsqu’on les mettait sous silence, jamais ils n’ont été aussi nombreux et visibles […] si bien que le littéraire aujourd’hui apparaît en très grande partie comme une arène conflictuelle composée d’une sphère publique hégémonique reposant sur l’imprimé et d’une multitude d’espaces publics contre-hégémoniques relevant plutôt d’une « littérature-brouhaha » (exposée, performée, in situ, multi-support) avec de très nombreuses circulations entre eux. »
@@ -193,15 +225,11 @@ Notes de présentation
 
 ### Gestes de publication
 
-
 ===
-
-- un nouveau mode de publication littéraire ("Gestes de publication")
-- institution litt ? (Oeuvre)
-+ slides Joelle Z. sur l'espace public ?
-
-forme anthologique
-
+On parlera donc de "gestes de publication" pour désigner de un nouveau mode de production de diffusion du littéraire, qui vient travailler nos notions littéraires canoniques héritées de l'imprimé (ou surtout d'un modèle édito assez récent)
+- le texte : oralité et performance
+- l'auteur : GI commons
+- l'oeuvre : forme anthologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="/home/nicolas/Vidéos/extrait-instin.mp4" -->
@@ -224,6 +252,48 @@ oralité et performance
 origine de la littérature : Epopée, poésie médievale
 poiesis (le _faire_), poésie et poème
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
+<!-- .slide: class="hover"-->
+### Du libre-accès au libre-service : les "GI Commons"
+
+>Il n’y a pas de chef, pas d’organisation, c’est un fonctionnement particulier. Il n’y a jamais eu non plus de comité de rédaction. Ni de réunion. Une tentative de séminaire a capoté. Il y a des opportunités et des gens qui vont s’investir, longtemps ou pas, dans cette entité.
+>
+> Patrick Chatelier  
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Autorité ? le concept d’autorité en prend pour son grade. Pas besoin de demander l’autorisation pour utiliser Instin – entité en libre-service autant qu’en libre-accès. N’importe qui peut se l’approprier – comme sujet de l’écriture, comme personnage à mettre en scène, comme signature aussi. 200 personnes se sont agrégées à ce projet au fil des vingt dernières années. on pourrait parler de contributeurs plutôt que d'auteurs, d'ailleurs venus de multiples horizons (littérature, poésie, performance, arts visuels...). De l’aveu même de Chatelier, « Il est impossible de vraiment répondre à la question : Qui – ou plutôt, qu’est-ce que le Général Instin ? ».
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/CV-GI-def.jpg" -->
+<!-- .slide: class="hover"-->
+
+### GI, une anthologie
+
+* Un collectif
+* Une figure auctoriale
+* Un "retour" au modèle imprimé?
+
+===
+
+Instin opère un retour fracassant dans l’univers du livre imprimé sous la forme d’une anthologie : mosaïque de texte, collection de fragments, collectif d’écrivains, l’anthologie GI est la forme par excellence de la littérature-brouhaha.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: class="hover"-->
+
+### Culture numérique, culture anthologique
+
+> Comment expliquer le fait que l’anthologie soit la forme et le format par excellence de la civilisation numérique ? Les recueils de « fleurs » (anthos en grec veut dire « fleur »), censés tenir lieu d’une totalité difficilement accessible dans son intégralité, se sont généralisés, pour représenter non plus un choix ou une sélection dictés par des contraintes matérielles, mais plutôt des fragments conçus et formés pour la circulation et la transmission dans un environnement qui valorise une nouvelle manière de lire et d’écrire. Le fragment, ou toute pièce, tout document de n’importe quelle nature, est citable, mais surtout il se livre à des formes d’intégration dans des outils d’écriture qui sont presque toujours aujourd’hui des outils d’échange et de partage. Cette tournure anthologique, qui s’accentue avec les derniers outils et se confirme avec les nouvelles pratiques, implique une transformation déterminante de nos rapports avec les objets culturels de tous les genres et le savoir tout court. S’il est vrai que l’accès à l’information et au savoir a toujours été une forme du pouvoir, la culture anthologique, dans son déploiement numérique, met en place une nouvelle configuration épistémologique et formelle, capable de réorienter notre appréciation des liens entre savoir et pouvoir. »
+>
+> Milad Doueihi, _Pour un humanisme numérique, Seuil, 2011_
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+L’anthologie, c’est aussi une forme éditoriale ancienne dans notre histoire littéraire et qui, pourtant, serait « la forme et le format par excellence de la civilisation numérique » selon Milad Doueihi.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
