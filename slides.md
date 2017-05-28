@@ -31,19 +31,6 @@ CSDH-SCHN 2017 - Congress 2017 @ Toronto
 
 On peut écrire des notes ici.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
-<!-- .slide: class="hover"-->
-
-### Test
-
-Coucou !
-
-* Problématique générale
-* Le cas Instin
-* Questions de recherche :
-
-> CItation !!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -127,6 +114,7 @@ Notes de présentation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
+<!-- .slide: class="hover"-->
 
 ### Méthodologie
 
@@ -144,6 +132,7 @@ Notes de présentation
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ## Axes de recherche
 
@@ -208,6 +197,7 @@ poiesis (le _faire_), poésie et poème
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### GI est-il :
 
@@ -242,6 +232,49 @@ média - milieu
 
 ## Question dispositive
 
+===
+
+Le cas Instin est particulièrement intéressant pour essayer de comprendre ce que devient le dispositif dans l'environnement numérique.
+
+La notion de dispositif a toujours été problématique, elle fait parti de ces termes indéfinissables, insaisissables que tout le monde manipule malgré tout (et je pense avec raison).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Pour Foucault :
+
+>  «Ce que j'essaie de repérer sous ce nom c'est, [...] un ensemble résolument hétérogène comportant des discours, des institutions, des aménagements architecturaux, des décisions réglementaires, des lois, des mesures administratives, des énoncés scientifiques, des propositions philosophiques, morales, philanthropiques ; bref, du dit aussi bien que du non-dit, voilà les éléments du dispositif.
+>
+> Le dispositif lui-même c'est le réseau qu'on établit entre ces éléments [...].
+>
+> C'est ça le dispositif : des stratégies de rapports de force supportant des types de savoir, et supportés par eux»
+>
+> Foucault, _Dits et écrits_, volume III, p.299 _sq_ (1977)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+Pour Foucault, c'est "un ensemble hétérogène", un "réseau", une "stratégie de rapport de force".
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Pour Agemben :
+
+> «Tout ce qui a, d'une manière ou d'une autre, la capacité de capturer, d'orienter, de déterminer, d'intercepter, de modeler, de contrôler et d'assurer les gestes, les conduites, les opinions et les discours des êtres vivants.»
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+Agamben fait une Partition générale et massive de l'être entre :
+
+1. les êtres vivants (ou les substances) : l'ontologie des créatures
+2. les dispositifs à l'intérieur desquels les êtres ne cessent d'être _saisis_.
+
+[Citation Agamben]
+
+Mais la compréhension générale que l'on a du terme se complique lorsqu'on tente de l'amener sur le terrain numérique, où les relations de pouvoir et d'autorité sont profondément remaniées.
+
+Le dispositif revêt notamment un caractère déterministe, en particulier chez Foucault, qui doit être questionné, et c'est notamment à cela que la notion d'éditorialisation nous est utile, comme nous le montrera Marcello.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/rubon622.jpg"  -->
@@ -250,26 +283,109 @@ média - milieu
 
 ===
 
-* intuition initiale : cas d'étude idéal pour l'environnement-dispositif
-* poser la question du dispositif : nous éclairer sur la nature d'un environnement-dispositif : appropriation et réécriture
-* absence de dispositif ?
-  * oui, mais en fait non.
+Ainsi la première question que l'on s'est posé  : quel est le dispositif Instin ? Quel est l'agencement des forces et des autorités qui ont engendré son écriture.
+
+La première intuition, est bien sûr qu'il n'y a pas de dispositif. Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc. Cette intuition est aussi renforcée par le prolongement dans le temps, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/vitrailOriginal.jpg"  -->
+
+===
+
+Productions touffue, oeuvre indéfinissable, collectif multi-forme, ou plutôt à géométrie variable : produit un sentiment d'insaisissabilité du projet et de l'oeuvre, similaire au sentiment face à cette photo du vitrail : une figure insaisissable, aux contours flous, même la direction du regard s'est perdue.
+
+[Vitrail]
+
+Enfin, c'est l'effacement des auteurs, derrière la figure du général, tout à la fois sujet, narrateur, auteur.
+
+Toutes ces raisons laissent penser que le dispositif est absent.
+
+C'est cette absence supposée de dispositif qui permet justement de poser en creux la question du dispositif, et de se demander ce qu'il devient dans un tel projet, comment il opère, et s'il n'est plus là, qu'est ce qui le remplace.
+Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif, c'est à dire sur une forme de dispositif ouvert à toute forme d'appropriation de lui-même.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/Composition3Graphes.png" data-background-size="contain" -->
 
-### _dispositive_
+===
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/20170509_3_remue1524.png" -->
-
-### Milieu
+En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/textopoly3.jpg" data-background-size="contain" -->
+![](img/20170509_1_white.png) <!-- .element: width="60%" -->
+
+Spatialisation  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+Une première spatialisation : réseau de documents, nous montre très clairement que le corpus s'agence et se partitionne
+
+Mais révèle aussi des formes d'écritures comme ce texte dont chaque terme est associé à une notice de wiktionnary.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_2_white.png) <!-- .element: width="60%" -->
+
+Centralité de vecteur propre  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+Ici un calcul de centralité vient confirmer cela.
+
+(centralité de vecteur propre (eigen vector))
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+![](img/20170509_3_remue1524.png) <!-- .element: width="45%" -->
+![](img/item-002.png) <!-- .element: width="45%" -->
+
+_La campagne d’Égypte_, Patrice Chatelier (2006)  
+
+<!-- .element: style="font-size: 1.4rem" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_3_white.png) <!-- .element: width="60%" -->
+
+Modularité  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+Et finalement, le calcul de modularité nous donne une partition en x "communautés",
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_3_generalinstin_white.png) <!-- .element: width="60%" -->
+
+la source _generalinstin.net_  
+
+<!-- .element: style="font-size: 1.4rem" -->
+
+===
+qui isole notamment notre seconde source : generalinstin.net dont les pages se citent massivement.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/rubon622.jpg"  -->
+
+
+### «dispositive» _(adj.)_
+
+===
+
+Et ainsi, ces différentes manifestations produisent ensemble un archipel dont les contours sont finalement relativement identifiables, et dont la fonction peut être qualifiée de dispositive.
+
+Ici, en glissant du concept à l'adjectif, nous abandonnons le _dispositif_, mais sans en abandonner la fonction. C'est l'idée qu'a introduit Louise Merzeau à travers ses écrits lorsqu'elle parle d'_action dispositive_, c'est-à-dire d'une action à la fois opérée dans la cadre d'un dispositif mais aussi contributive et constitutive du dispositif.
+Ainsi, il n’y a pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont des _écritures dispositives_.
+
+Reste à caractériser le milieu dispositif qu'est Instin. Cela passe par une analyse du corpus, par sa description et le traitement des données rassemblées : production de cartographie des manifestations et des acteurs : identifier les dynamiques d'autorité et les modalités de ce milieu.
+
+Est-ce un rizhome ?
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/textopoly3.jpg" data-background-size="cover" -->
 
 ### GI, un rhizome ?
 
@@ -334,6 +450,8 @@ Vitali-Rosati, Qu'est-ce que l'éditorialisation?, Sens public 2016
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
+<!-- .slide: class="hover"-->
+
 ## L'espace
 
 - Espace mathématique et espace social
@@ -346,16 +464,22 @@ On a dit que l'édito produit l'espace: mais qu'est-ce que l'espace?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/panInstin.png" -->
+<!-- .slide: class="hover"-->
 
 ## Espace numérique
 
-- un espace architectural
-- un espace réel
-- un espace hybride
-- un espace en mouvement
+  1. un espace architectural
+  - un espace réel
+  - un espace hybride
+  - un espace en mouvement
+
+===
+
+Notes
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinDoeuvre.png" -->
+<!-- .slide: class="hover"-->
 
 ## Espace et autorité
 
