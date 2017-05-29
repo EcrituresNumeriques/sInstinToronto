@@ -393,10 +393,14 @@ Ici, un exemple de fouille de données qui a consisté à extraire tous les lien
 
 ![](img/20170509_1_white.png) <!-- .element: width="60%" -->
 
-Spatialisation  <!-- .element: style="font-size: 1.4rem" -->
+_Forced-based spatialisation_  <!-- .element: style="font-size: 1.4rem" -->
 
 ===
-Une première spatialisation : réseau de documents, nous montre très clairement que le corpus s'agence et se partitionne
+Une première spatialisation (Fruchterman Reingold)
+
+utilisé pour ces premières exploration pour garder un visualisation relativement neutre, révélant des relations sans trop les caractériser : nous permet de garder un lien particulier avec les sources et poursuivre une lecture rapprochée):
+
+réseau de documents, nous montre très clairement que le corpus s'agence et se partitionne
 
 Mais révèle aussi des formes d'écritures comme ce texte dont chaque terme est associé à une notice de wiktionnary.
 
@@ -462,7 +466,6 @@ Est-ce un rizhome ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
 <!-- .slide: data-background-image="img/textopoly3.jpg" data-background-size="cover" -->
 
 ### GI, un rhizome ?
@@ -472,7 +475,20 @@ Est-ce un rizhome ?
 pour lancer Enrico
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/rhizome.jpg" -->
+<!-- .slide: class="hover"-->
+
+### Rhizome selon Deleuze et Guattari
+
+* Connexion
+* Hétérogénéité
+* Multiplicité
+* Rupture asignifiante
+* Cartographie
+* Décalcomanie
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/machine_guerre.jpg" data-background-size="cover" -->
 ### Machine de guerre
 
 ===
@@ -481,15 +497,17 @@ Enrico est lancé
 Enrico lance Marcello sur l'éditorialisation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+<!-- .slide: class="hover"-->
+
 ### La notion d'éditorialisation
 
 
-* 2004-2007: apparition du mot
+* **2004-2007: apparition du mot**
   * Une sorte d'édition dans l'environnement numérique
   * Bachimont : passage d'un document non-numérique à un document numérique
 
-
-* 2008: le terme s'institutionnalise
+* **2008: le terme s'institutionnalise**
   * Sens public: formes de production et de circulation de la connaissance en environnement numérique
   * Laboratoire MSH: Pratiques interdisciplinaires et circulation du savoir : vers une éditorialisation des SHS (Wormser, Vitali-Rosati)
 
@@ -502,17 +520,23 @@ poutant ça produit une émergence de sens
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+<!-- .slide: class="hover"-->
+
 ### La notion d'éditorialisation
 
 >«L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.»
 >
 > Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+<!-- .slide: class="hover"-->
+
 ### Caractéristiques de l'éditorialisation
 
 - ouverte
