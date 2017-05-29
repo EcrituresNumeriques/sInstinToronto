@@ -399,7 +399,7 @@ Productions touffue, oeuvre indéfinissable, collectif multi-forme, ou plutôt �
 
 [Vitrail]
 
-Enfin, c'est l'effacement des auteurs, derrière la figure du général, tout à la fois sujet, narrateur, auteur. Plusieurs manifestations ne sont pas signées du général instin, ou bien encore ne le sont pas du tout.
+Enfin, c'est l'effacement des auteurs, derrière la figure du général, tout à la fois sujet, narrateur, auteur, dans le glissement auctoriale que Servanne a mentionné.
 
 Toutes ces raisons laissent penser que le dispositif est absent.
 
@@ -409,12 +409,23 @@ Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/Composition3Graphes.png" data-background-size="contain" -->
+<!--  .slide: class="hover"-->
+
+* un ensemble ouvert et dynamique, mais fini
+* centralité de certains acteurs et plateformes
+* deux structures classiques :
+  1. organisation arborescente
+  2. organisation rhizomatique
 
 ===
 
 En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
 
-Ici, un exemple de fouille de données qui a consisté à extraire tous les liens contenus dans le corps de texte du corpus et à produire une matrice d'adjacence à partir de ces liens. Cela nous donne un réseau de documents que nous avons pu spatialiser.
+L'archivage en cours de GI nous amène finalement à cerner le corpus en un ensemble fini. Avec un nombre d’auteurs, de contributions, de plateformes maîtrisables. Elle nous montre par ailleurs que c'est un corpus organisé et distribué dans des rubriques identifiées.
+
+Il y a là deux organisations qui se font face : celle arborescente des plateformes (voir les rubriques de Remue.net), et celle rhizomatique des textes hyperliées.
+
+Ici, nos premiers pas dans la fouille de données : extraire tous les liens contenus dans le corps de texte du corpus et à produire une matrice d'adjacence à partir de ces liens. Cela nous donne un réseau de documents que nous avons pu spatialiser.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -641,7 +652,7 @@ on ne répond pas à la question
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18rhwdJjrIvOahi_L70BqDT9x8_EKqmxgsPQk7AFtnog&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe data-src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18rhwdJjrIvOahi_L70BqDT9x8_EKqmxgsPQk7AFtnog&font=Default&start_at_slide=19&lang=fr&initial_zoom=21&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ===
 
