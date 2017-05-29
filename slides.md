@@ -201,7 +201,8 @@ Le choix reste pertinent dans tous les cas, car la TEI nous donne toute latitude
 ## Question littéraire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
+<!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### De Hinstin à Instin
 
@@ -720,6 +721,10 @@ Lire le texte
 
 ### Imaginaire/réel
 
+* espace numérique et brouillage des frontières
+* fusion entre texte, paratexte et épitexte
+* superposition de discours littéraire et non littéraire
+
 ===
 
 Statut ontologique de la littérature
@@ -758,42 +763,14 @@ Archivage : processus de légitimation d'une littérature hors institution, ce q
 
 Instin : occupation volontaire des marges: qu'est ce que veut dire l'archivage des marges.
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### GI est-il :
-
-* un objet intermédial ?
-* un objet ?
-* un milieu ?
-* un vecteur ?
-* un média ?
-
-===
-
-* collecte et inventaire des "manifestations" :
-* observations : expérience médiatique (formes d'expressions médiatiques - reliées à la question de la publication), identité visuelle,
-* question : est ce qu'il y a des patterns textuels et patterns visuels qui se répondent (voir blog)
-* et finalement, intervient la question de l'intermédialité :
-  * à la fois comme littérature multi-modales
-  * et comme intersections d'idées, d'acteurs, d'initiatives : considérer les formes d’existence à partir des relations
-
-* et finalement : emergence d'une question : est-ce que gi est un média ?
-
----
-- l'intermédialité : formes d'expressions médiatiques ; intersections d’idées, d’acteurs, d’initiatives, dont Instin se pose en vecteur davantage qu’en œuvre ; considérer les formes d’existence à partir des relations
-
-média - milieu
-
-
-**Débat entre nous quatre**
-
+Problématique d'étude littéraire : la perte chez les surréalistes
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ### Merci !
 
