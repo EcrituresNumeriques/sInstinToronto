@@ -201,7 +201,8 @@ Le choix reste pertinent dans tous les cas, car la TEI nous donne toute latitude
 ## Question littéraire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
+<!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
 
 ### De Hinstin à Instin
 
@@ -424,7 +425,7 @@ _Forced-based spatialisation_  <!-- .element: style="font-size: 1.4rem" -->
 ===
 Une première spatialisation (Fruchterman Reingold)
 
-utilisé pour ces premières exploration pour garder un visualisation relativement neutre, révélant des relations sans trop les caractériser : nous permet de garder un lien particulier avec les sources et poursuivre une lecture rapprochée):
+utilisé pour ces premières exploration pour garder un visualisation relativement neutre, révélant des relations sans trop les caractériser : nous permet de garder un lien particulier avec les sources et poursuivre une lecture rapprochée :
 
 réseau de documents, nous montre très clairement que le corpus s'agence et se partitionne
 
@@ -437,7 +438,7 @@ Mais révèle aussi des formes d'écritures comme ce texte dont chaque terme est
 Centralité de vecteur propre  <!-- .element: style="font-size: 1.4rem" -->
 
 ===
-Ici un calcul de centralité vient confirmer cela.
+Ici un calcul de centralité vient confirmer qu'il existe dans ce corpus des hubs, des textes plus importants que les autres, davantage cités que les autres, ...
 
 (centralité de vecteur propre (eigen vector))
 
@@ -452,6 +453,8 @@ _La campagne d’Égypte_, Patrice Chatelier (2006)
 
 <!-- .element: style="font-size: 1.4rem" -->
 
+===
+comme c'est le cas de La Campagne d'Egypte de Patrice Chatelier, un des premiers textes du GI sur remue.net.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -623,6 +626,20 @@ Enrico doit faire le lien vers la question ontologique
 ## Question ontologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
+
+### Origine(s)
+
+===
+
+frontières : quand GI commence ??
+  la photo ? chatelier ? les premières manifestations littéraires sur **H**-instin, ou toute inscription du nom Hinstin : l'acte de naissance d'Hinstin , l'acte de décès (il produit le vitrail),
+  voir à la BNF : un fond photographique dédié à la famille Hinstin (+ navire de guerre), en lien avec Lautréamont (alias Isidore Ducasse)
+
+on ne répond pas à la question
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18rhwdJjrIvOahi_L70BqDT9x8_EKqmxgsPQk7AFtnog&font=Default&lang=fr&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
@@ -639,18 +656,6 @@ mais aussi d'autres formes de visualisation
 à partir de la Timeline, constat :
   * on a observé que les frontières* n'étaient pas si évidentes : frontières temporelles et spatiales de l'objet
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
-
-### Origine(s)
-
-===
-
-frontières : quand GI commence ??
-  la photo ? chatelier ? les premières manifestations littéraires sur **H**-instin, ou toute inscription du nom Hinstin : l'acte de naissance d'Hinstin , l'acte de décès (il produit le vitrail),
-  voir à la BNF : un fond photographique dédié à la famille Hinstin (+ navire de guerre), en lien avec Lautréamont (alias Isidore Ducasse)
-
-on ne répond pas à la question
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinPapier.png" -->
@@ -710,20 +715,15 @@ les ingrédients du mème
 
 Lire le texte
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/delphine5.jpg"-->
-
-### la question du mythe
-
-===
-
-(pour Servanne)
-histoire ou récit ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/G.I.-15h26--.jpg" data-background-size="contain"-->
 
 ### Imaginaire/réel
+
+* espace numérique et brouillage des frontières
+* fusion entre texte, paratexte et épitexte
+* superposition de discours littéraire et non littéraire
 
 ===
 
@@ -758,41 +758,19 @@ tentative vaine de totalisation
 
 l'archive comme miroir de GI
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+Archivage : processus de légitimation d'une littérature hors institution, ce que Bridget Christine Moynihan appellait le "prismatic fringes", les espaces marginaux.
+  question : comment l'archive, et plus spécifiquement l'édition numérique de l'archive peut modifier du statut de ces oeuvres. Comment la mise en archive travaille l'objet source.
 
-### GI est-il :
+Instin : occupation volontaire des marges: qu'est ce que veut dire l'archivage des marges.
 
-* un objet intermédial ?
-* un objet ?
-* un milieu ?
-* un vecteur ?
-* un média ?
-
-===
-
-* collecte et inventaire des "manifestations" :
-* observations : expérience médiatique (formes d'expressions médiatiques - reliées à la question de la publication), identité visuelle,
-* question : est ce qu'il y a des patterns textuels et patterns visuels qui se répondent (voir blog)
-* et finalement, intervient la question de l'intermédialité :
-  * à la fois comme littérature multi-modales
-  * et comme intersections d'idées, d'acteurs, d'initiatives : considérer les formes d’existence à partir des relations
-
-* et finalement : emergence d'une question : est-ce que gi est un média ?
-
----
-- l'intermédialité : formes d'expressions médiatiques ; intersections d’idées, d’acteurs, d’initiatives, dont Instin se pose en vecteur davantage qu’en œuvre ; considérer les formes d’existence à partir des relations
-
-média - milieu
-
-
-**Débat entre nous quatre**
-
+Problématique d'étude littéraire : la perte chez les surréalistes
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
 
 ### Merci !
 
