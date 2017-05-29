@@ -756,14 +756,32 @@ La question du statut des manifestations :
 
 tentative vaine de totalisation
 
-l'archive comme miroir de GI
-
 Archivage : processus de légitimation d'une littérature hors institution, ce que Bridget Christine Moynihan appellait le "prismatic fringes", les espaces marginaux.
   question : comment l'archive, et plus spécifiquement l'édition numérique de l'archive peut modifier du statut de ces oeuvres. Comment la mise en archive travaille l'objet source.
 
 Instin : occupation volontaire des marges: qu'est ce que veut dire l'archivage des marges.
 
 Problématique d'étude littéraire : la perte chez les surréalistes
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/archive.png" -->
+<!-- .slide: class="hover"-->
+
+## Editorialisation de l'archive
+
+* double dynamique :
+  * ouverture et continuité : rendre l'archive publique et appropriable
+  * réflexivité : que nous dit le design de l'archive sur le dispositif GI lui-même
+
+
+===
+C’est en quelque sorte une première étape d’éditorialisation d’une archive et ce processus d’éditorialisation nous projette dans une double dynamique :
+
+    dynamique d’ouverture : dans la continuité de l’esprit du Général Instin, cette éditorialisation pourrait avoir vocation à devenir publique, accessible, appropriable.
+    dynamique réflexive sur notre projet : en faisant le pari que la conception du dispositif d’éditorialisation de l’archive nous éclairera sur le dispositif GI lui-même.
+
+Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
+
 
 
 
