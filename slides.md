@@ -764,6 +764,15 @@ Instin : occupation volontaire des marges: qu'est ce que veut dire l'archivage d
 Problématique d'étude littéraire : la perte chez les surréalistes
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+> «&nbsp;Depuis quelques années [le terme "littérature"] tend à se dissiper comme objet de connaissance, voire simplement de perception. Simultanément, le statut de l’«&nbsp;histoire de la littérature&nbsp;» est remis en question. De telles incertitudes ne sont pas propres à notre époque ; elles s’associent aux regrets qu’inspire périodiquement depuis trois siècles une prétendue décadence de la culture livresque : constante paradoxale, où l’on pourrait discerner les accès récurrents d’une nostalgie de la voix vive. Mais la logique discursive qui constitua notre « littérature » fonctionne aujourd’hui de pis en pis ; une menace d’aliénation connote plus ou moins tous les sens produits par elle. Preuve en soit la fortune dont jouit pendant une vingtaine d’années la «&nbsp;théorie littéraire&nbsp;» : compensation — peut-être honteuse — d’une perte de foi en la validité des littératures.»
+>
+> Paul Zumthor, _La Voix et la lettre_
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/archive.png" -->
 <!-- .slide: class="hover"-->
 
@@ -781,8 +790,6 @@ C’est en quelque sorte une première étape d’éditorialisation d’une arch
     dynamique réflexive sur notre projet : en faisant le pari que la conception du dispositif d’éditorialisation de l’archive nous éclairera sur le dispositif GI lui-même.
 
 Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
-
-
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
