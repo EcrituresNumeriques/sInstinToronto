@@ -256,11 +256,13 @@ poiesis (le _faire_), poésie et poème
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
 <!-- .slide: class="hover"-->
+
 ### Du libre-accès au libre-service : les "GI Commons"
 
->Il n’y a pas de chef, pas d’organisation, c’est un fonctionnement particulier. Il n’y a jamais eu non plus de comité de rédaction. Ni de réunion. Une tentative de séminaire a capoté. Il y a des opportunités et des gens qui vont s’investir, longtemps ou pas, dans cette entité.
+> Il n’y a pas de chef, pas d’organisation, c’est un fonctionnement particulier. Il n’y a jamais eu non plus de comité de rédaction. Ni de réunion. Une tentative de séminaire a capoté. Il y a des opportunités et des gens qui vont s’investir, longtemps ou pas, dans cette entité.
 >
 > Patrick Chatelier  
+
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
@@ -286,46 +288,14 @@ Instin opère un retour fracassant dans l’univers du livre imprimé sous la fo
 
 ### Culture numérique, culture anthologique
 
-> Comment expliquer le fait que l’anthologie soit la forme et le format par excellence de la civilisation numérique ? Les recueils de « fleurs » (anthos en grec veut dire « fleur »), censés tenir lieu d’une totalité difficilement accessible dans son intégralité, se sont généralisés, pour représenter non plus un choix ou une sélection dictés par des contraintes matérielles, mais plutôt des fragments conçus et formés pour la circulation et la transmission dans un environnement qui valorise une nouvelle manière de lire et d’écrire. Le fragment, ou toute pièce, tout document de n’importe quelle nature, est citable, mais surtout il se livre à des formes d’intégration dans des outils d’écriture qui sont presque toujours aujourd’hui des outils d’échange et de partage. Cette tournure anthologique, qui s’accentue avec les derniers outils et se confirme avec les nouvelles pratiques, implique une transformation déterminante de nos rapports avec les objets culturels de tous les genres et le savoir tout court. S’il est vrai que l’accès à l’information et au savoir a toujours été une forme du pouvoir, la culture anthologique, dans son déploiement numérique, met en place une nouvelle configuration épistémologique et formelle, capable de réorienter notre appréciation des liens entre savoir et pouvoir. »
+> «Comment expliquer le fait que l’anthologie soit la forme et le format par excellence de la civilisation numérique ? Les recueils de « fleurs » (anthos en grec veut dire « fleur »), censés tenir lieu d’une totalité difficilement accessible dans son intégralité, se sont généralisés, pour représenter non plus un choix ou une sélection dictés par des contraintes matérielles, mais plutôt des fragments conçus et formés pour la circulation et la transmission dans un environnement qui valorise une nouvelle manière de lire et d’écrire. Le fragment, ou toute pièce, tout document de n’importe quelle nature, est citable, mais surtout il se livre à des formes d’intégration dans des outils d’écriture qui sont presque toujours aujourd’hui des outils d’échange et de partage. Cette tournure anthologique, qui s’accentue avec les derniers outils et se confirme avec les nouvelles pratiques, implique une transformation déterminante de nos rapports avec les objets culturels de tous les genres et le savoir tout court. S’il est vrai que l’accès à l’information et au savoir a toujours été une forme du pouvoir, la culture anthologique, dans son déploiement numérique, met en place une nouvelle configuration épistémologique et formelle, capable de réorienter notre appréciation des liens entre savoir et pouvoir. »
 >
-> Milad Doueihi, _Pour un humanisme numérique, Seuil, 2011_
+> Milad Doueihi, _Pour un humanisme numérique_, Seuil, 2011
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 L’anthologie, c’est aussi une forme éditoriale ancienne dans notre histoire littéraire et qui, pourtant, serait « la forme et le format par excellence de la civilisation numérique » selon Milad Doueihi.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### GI est-il :
-
-* un objet intermédial ?
-* un objet ?
-* un milieu ?
-* un vecteur ?
-* un média ?
-
-===
-
-* collecte et inventaire des "manifestations" :
-* observations : expérience médiatique (formes d'expressions médiatiques - reliées à la question de la publication), identité visuelle,
-* question : est ce qu'il y a des patterns textuels et patterns visuels qui se répondent (voir blog)
-* et finalement, intervient la question de l'intermédialité :
-  * à la fois comme littérature multi-modales
-  * et comme intersections d'idées, d'acteurs, d'initiatives : considérer les formes d’existence à partir des relations
-
-* et finalement : emergence d'une question : est-ce que gi est un média ?
-
----
-- l'intermédialité : formes d'expressions médiatiques ; intersections d’idées, d’acteurs, d’initiatives, dont Instin se pose en vecteur davantage qu’en œuvre ; considérer les formes d’existence à partir des relations
-
-média - milieu
-
-
-**Débat entre nous quatre**
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="./img/mashupInstin.png" -->
@@ -357,9 +327,11 @@ Pour Foucault, c'est "un ensemble hétérogène", un "réseau", une "stratégie 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Pour Agemben :
+Pour Agamben :
 
 > «Tout ce qui a, d'une manière ou d'une autre, la capacité de capturer, d'orienter, de déterminer, d'intercepter, de modeler, de contrôler et d'assurer les gestes, les conduites, les opinions et les discours des êtres vivants.»
+>
+> Agamben, _Qu'est-ce qu'un dispositif ?_ 2007
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
@@ -716,6 +688,40 @@ La question du statut des manifestations :
 tentative vaine de totalisation
 
 l'archive comme miroir de GI
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### GI est-il :
+
+* un objet intermédial ?
+* un objet ?
+* un milieu ?
+* un vecteur ?
+* un média ?
+
+===
+
+* collecte et inventaire des "manifestations" :
+* observations : expérience médiatique (formes d'expressions médiatiques - reliées à la question de la publication), identité visuelle,
+* question : est ce qu'il y a des patterns textuels et patterns visuels qui se répondent (voir blog)
+* et finalement, intervient la question de l'intermédialité :
+  * à la fois comme littérature multi-modales
+  * et comme intersections d'idées, d'acteurs, d'initiatives : considérer les formes d’existence à partir des relations
+
+* et finalement : emergence d'une question : est-ce que gi est un média ?
+
+---
+- l'intermédialité : formes d'expressions médiatiques ; intersections d’idées, d’acteurs, d’initiatives, dont Instin se pose en vecteur davantage qu’en œuvre ; considérer les formes d’existence à partir des relations
+
+média - milieu
+
+
+**Débat entre nous quatre**
+
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
