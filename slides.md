@@ -71,17 +71,31 @@ Notes de présentation
 source image : remue.net/  <!-- .element: class="source" -->
 ===
 
-Notes de présentation
+Une photographie, prise par Juliette Soubrier en 1997. Il s'agit de la photo d'un vitrail qui orne une tombe, la tombe du Général Hinstin, mort en 1905. Le vitrail s'est oxidé avec le temps et laisse désormais apparaitre cette figure fantomatique.
+
+La même année (1997) Patrick Chatelier, écrivain français, reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles.   
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/revueGeste.png" data-background-size="contain"-->
+
+source image : revue-geste.fr/  <!-- .element: class="source" -->
+===
+
+Cette photo du Général va inspirer les artistes présents, et marquer le début d'un collectif assez informel, qui donnera lieu à quelques publications papier - et à différents atelier littéraires (+/- formels là aussi).
+
+Entre temps, Hinstin a perdu son "H" qui le faisait personnage historique, pour devenir un matériau narratif, platisque, sémiotique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-026.png" data-background-size="contain" -->
+
 
 <!-- ![Remue.net](img/item-026.png) -->
 
 source image : remue.net/  <!-- .element: class="source" -->
 ===
 
-Notes de présentation
+Rapidement, insvestissement de la plateforme Remue.net, qui va jouer un rôle d'agrégateur / centralisateur des productions consacrées à Instin : poèmes, récits, beaucoup d'images, des vidéos et enregistrements (car bcp de lectures et d'ateliers commencent à être archivés).
+GI devient donc un hypertexte géant.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-036.png" data-background-size="contain" -->
@@ -91,7 +105,7 @@ source image : generalinstin.net/  <!-- .element: class="source" -->
 
 ===
 
-Notes de présentation
+Des expériences plus ponctuelles sur d'autres plateformes, en gagnant leur autonomie tout en s'inscrivant dans le projet GI - nous avons nommés "Spin-off" ces expériences.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/toutesLesImages.png" -->
@@ -99,7 +113,8 @@ Notes de présentation
 
 ===
 
-Notes de présentation
+Aspect intermédial très fort, production iconographique importante et foisonnante.
+Identité visuelle - notamment autour du vitrail (mais nous avons identifié 3-4- patterns qu'il nous faudra étudier davantage) : memento mori / nature morte / land art.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Hinstin-famille.jpg" -->
@@ -109,7 +124,18 @@ source image : BNF  <!-- .element: class="source" -->
 
 ===
 
-Notes de présentation
+Retour de bâton : le collectif redécouvre que la famille Hinstin (avec son H), a en fait partie liée depuis longtemps avec la littérature et les arts - présent chez Jarry, Kessel.
+La BNF dispose même d'un fond d'archive de la famille.
+Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnés.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/corpusFantome.png" -->
+
+
+===
+
+Bref, nous avons un corpus assez complexe - un corpus fantôme.
+= Une des difficultés méthodo quand on travaille sur le comtemporain : un patrimoine mouvant, favorisant des pratiques expérimentales qui sont super, mais qui mettent en péril leur propre pérennité.  
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -306,7 +332,7 @@ L’anthologie, c’est aussi une forme éditoriale ancienne dans notre histoire
 
 Le cas Instin est particulièrement intéressant pour essayer de comprendre ce que devient le dispositif dans l'environnement numérique.
 
-La notion de dispositif a toujours été problématique, elle fait parti de ces termes indéfinissables, insaisissables que tout le monde manipule malgré tout (et je pense avec raison).
+La notion de dispositif a toujours été problématique, elle fait partie de ces termes indéfinissables, insaisissables que tout le monde manipule malgré tout (et je pense avec raison).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -613,7 +639,12 @@ des spins-offs (publications papier sous le nom d'Instin):
 * Climax : réflexion sur l'archive
 * Spoon River : côté anthologique qui revient
 
-L'aspect anthologique
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/adamique.png" -->
+
+
+===
+Lire le texte.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/arton2702.jpg" data-background-size="contain"-->
@@ -649,6 +680,13 @@ La symbolique du général
 les ingrédients du mème
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/errants.png"-->
+
+===
+
+Lire le texte
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/delphine5.jpg"-->
 
 ### la question du mythe
@@ -669,6 +707,13 @@ Statut ontologique de la littérature
 Espace
 P. Valéry
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/projet.png"-->
+
+
+===
+
+Lire le texte.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/archive.png" -->
