@@ -1,4 +1,4 @@
-****## Éditorialisation et littérature: le cas du Général Instin
+## Éditorialisation et littérature: le cas du Général Instin
 &nbsp;
 
 Enrico Agostini-Marchese, Servanne Monjour,  
@@ -50,6 +50,12 @@ Marcello:
 Questions de recherche de la Chaire : qu'est-ce que la litt à l'époque du numérique ?
 Comment changent les dispositifs d'écriture (production/ circulation / légitimation)
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Chaire de recherche du Canada sur les écritures numériques
+
+![](http://vitalirosati.net/slides/img/equipe1.png) <!-- .element: width="45%" -->
+![](http://vitalirosati.net/slides/img/equipe2.png) <!-- .element: width="45%" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
@@ -813,6 +819,17 @@ Lire le texte.
 
 ===
 
+L'archivage d'instin a soulevé différentes questions intéressantes :
+
+1. la possibilité d'une totalisation d'un corpus fantome ?
+2. la nécessité de conserver et d'étudier des formes littéraires à la marge, et on revient à la question de recherche qui nous a été présenté lundi par Bridget Christine Moynihan, ce qu'elle appellait le "prismatic fringes", les espaces marginaux.
+
+Avec la question : comment l'archive, et plus spécifiquement l'édition numérique de l'archive peut modifier du statut de ces oeuvres. Comment la mise en archive travaille l'objet source.
+
+3. engin la classification d'un tel corpus, aux sources multiples, multimodales, dont les frontières entre épi para et contenu n'est pas si claire, ce qui repose la question ontologique d'instin.
+
+---
+
 éditorialisation de l'archive et conséquence ontologique
 
 La question du statut des manifestations :
@@ -824,8 +841,7 @@ La question du statut des manifestations :
 
 tentative vaine de totalisation
 
-Archivage : processus de légitimation d'une littérature hors institution, ce que Bridget Christine Moynihan appellait le "prismatic fringes", les espaces marginaux.
-  question : comment l'archive, et plus spécifiquement l'édition numérique de l'archive peut modifier du statut de ces oeuvres. Comment la mise en archive travaille l'objet source.
+Archivage : processus de légitimation d'une littérature hors institution, ce que
 
 Instin : occupation volontaire des marges: qu'est ce que veut dire l'archivage des marges.
 
@@ -852,10 +868,12 @@ Problématique d'étude littéraire : la perte chez les surréalistes
 
 
 ===
+fidèle à nos questions de recherche, nous pouvions pas penser l'archivage sans penser l'éditorialisation de l'archive.
+
 C’est en quelque sorte une première étape d’éditorialisation d’une archive et ce processus d’éditorialisation nous projette dans une double dynamique :
 
-    dynamique d’ouverture : dans la continuité de l’esprit du Général Instin, cette éditorialisation pourrait avoir vocation à devenir publique, accessible, appropriable.
-    dynamique réflexive sur notre projet : en faisant le pari que la conception du dispositif d’éditorialisation de l’archive nous éclairera sur le dispositif GI lui-même.
+* dynamique d’ouverture : dans la continuité de l’esprit du Général Instin, cette éditorialisation pourrait avoir vocation à devenir publique, accessible, appropriable.
+* dynamique réflexive sur notre projet : en faisant le pari que la conception du dispositif d’éditorialisation de l’archive nous éclairera sur le dispositif GI lui-même.
 
 Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
 
