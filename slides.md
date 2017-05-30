@@ -67,7 +67,9 @@ source image: _Quand on écrira l’histoire secrète du vingt et unième siècl
 
 ===
 
-Notes de présentation
+Notre cas d'étude est très difficile à décrire car hétérogène, mouvant, insaisissable.
+Sa nature est de ne pas avoir de nature, d'en changer tout le temps.
+On peut dresser cependant une première cartographie.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
@@ -77,9 +79,9 @@ source image: _introduction au feuilleton collectif Général Instin_ sur remue.
 <!-- .element: class="source" -->
 ===
 
-Une photographie, prise par Juliette Soubrier en 1997. Il s'agit de la photo d'un vitrail qui orne une tombe, la tombe du Général Hinstin, mort en 1905. Le vitrail s'est oxidé avec le temps et laisse désormais apparaitre cette figure fantomatique.
+Une photographie, prise par Juliette Soubrier en 1997. Il s'agit de la photo d'un vitrail qui orne une tombe, la tombe du Général **H**-instin, mort en 1905. Le vitrail s'est oxidé avec le temps et laisse désormais apparaitre cette figure fantomatique.
 
-La même année (1997) Patrick Chatelier, écrivain français, reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles.   
+La même année (1997) Patrick Chatelier, écrivain français, reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles (Paris).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/revueGeste.png" data-background-size="contain"-->
@@ -87,9 +89,9 @@ La même année (1997) Patrick Chatelier, écrivain français, reprend cette pho
 source image: revue-geste.fr  <!-- .element: class="source" -->
 ===
 
-Cette photo du Général va inspirer les artistes présents, et marquer le début d'un collectif assez informel, qui donnera lieu à quelques publications papier - et à différents atelier littéraires (+/- formels là aussi).
+Cette photo du Général va inspirer les artistes présents, et marquer le début d'un collectif relativement informel (bien que très pro-actif), qui donnera lieu à quelques publications papier - et à différents atelier littéraires (+/- formels là aussi).
 
-Entre temps, Hinstin a perdu son "H" qui le faisait personnage historique, pour devenir un matériau narratif, platisque, sémiotique.
+Entre temps, Hinstin a perdu son "H" qui le faisait personnage historique, pour devenir un matériau narratif, platisque, sémiotique. Il devient ainsi Général Instin svt abrégé GI.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-026.png" data-background-size="contain" -->
@@ -100,8 +102,8 @@ source image: remue.net
 
 ===
 
-Rapidement, insvestissement de la plateforme Remue.net, qui va jouer un rôle d'agrégateur / centralisateur des productions consacrées à Instin : poèmes, récits, beaucoup d'images, des vidéos et enregistrements (car bcp de lectures et d'ateliers commencent à être archivés).
-GI devient donc un hypertexte géant.
+Rapidement, GI insvestit la plateforme Remue.net, qui va jouer un rôle d'agrégateur / centralisateur des productions consacrées à Instin : poèmes, récits, beaucoup d'images, des vidéos et enregistrements (car bcp de lectures et d'ateliers commencent à être archivés).
+GI prend donc racine dans l'hypertexte.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-036.png" data-background-size="contain" -->
@@ -119,7 +121,7 @@ Des expériences plus ponctuelles sur d'autres plateformes, en gagnant leur auto
 
 ===
 
-Aspect intermédial très fort, production iconographique importante et foisonnante.
+Les productions reliées au GI contiennent un aspect intermédial très fort, avec une production iconographique importante et foisonnante.
 Identité visuelle - notamment autour du vitrail (mais nous avons identifié 3-4- patterns qu'il nous faudra étudier davantage) : memento mori / nature morte / land art.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -129,8 +131,8 @@ source image: BNF  <!-- .element: class="source" -->
 
 ===
 
-Retour de bâton : le collectif redécouvre que la famille Hinstin (avec son H), a en fait partie liée depuis longtemps avec la littérature et les arts - présent chez Jarry, Kessel.
-La BNF dispose même d'un fond d'archive de la famille.
+Au cours des années 2000, Retour de bâton : le collectif redécouvre que la famille Hinstin (avec son H), a en fait partie liée depuis longtemps avec la littérature et les arts - présent chez Jarry, Kessel.
+La BNF dispose même d'un fond d'archive photo de la famille (qui d'ailleurs est bien connue des spécialistes de Lautréamont).
 Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnés.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -225,6 +227,7 @@ source image: _Instin, plans de coupe, vues générales._ sur remue.net
 ### De Hinstin à Instin
 
 * Une contrainte créative
+* Un projet collectif
 * Un personnage de fiction
 * L'Histoire et l'histoire
 
@@ -232,8 +235,11 @@ source image: _La place du mort_ sur remue.net
 
 <!-- .element: class="source" -->
 
-
 ===
+À la Grange-aux-Belles, Patrick Chatelier transforme le portrait en contrainte d’écriture : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
+
+C'est à ce moment que Hinstin perd son H « H qui le faisait humain historique » pour opérer ce passage vers la fiction, vers la littérature, pour devenir personnage-entité. Instin est donc, dans un premier temps, un sujet et un personnage de fiction auquel on invente une histoire, auquel on donne une seconde vie : tout le monde peut s’approprier cet « ancêtre universel ».
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
@@ -251,14 +257,17 @@ source image: _Général Instin_ sur facebook.com
 
 ===
 
-Problème éditorial, car GI se conçoit principalement dans un "hors-livre".
+Ce qui nous intéresse notamment dans le projet GI est aussi ce qui nous cause le + de difficultés: GI se conçoit principalement dans un "hors-livre". C'est un projet éditorial complexe qui cependant s'inscrit en dehors de notre modèle éditorial traditionnel.
+
 Depuis le squat de la Grange aux belles, il s'inscrit relativement à la marge - par "marge" on entend celles, principalement, des institutions littéraires mais encore plus éditoriales. Instin est généré dans :
-- atelier d'écriture
+- un squat
+- ateliers d'écriture
 - revues littéraires
 - revue en ligne (Remue)
 - sites web
-- réseaux sociaux
-Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Il occupe l'espace public - en même temps que l'espace public se redéfini lui-même, sous l'impulsion du numérique.
+- réseaux sociaux (FB + Twitter où il a ses propres profils)
+
+Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Il occupe l'espace public - en même temps que l'espace public se redéfinit lui-même à l'ère numérique. De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Une littérature "brouhaha"
@@ -273,7 +282,9 @@ Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plus
 
 ===
 
-Notes de présentation
+Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
+
+[après citation] Là où l’on invoque souvent, avec le numérique, l’idée de crise de l’édition (entraînant dans sa chute la littérature), ou la crainte d’une disparition du livre (avec une prétendue dématérialisation des textes), nous pouvons dire qu’il y a surtout une opposition forte à notre modèle éditorial moderne, qui nous permet peut-être de renouer avec certaines pratiques et certaines conceptions du fait littéraire, tel qu’elles existaient avant le XVIIIe.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
@@ -286,10 +297,10 @@ source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 
 
 ===
-On parlera donc de "gestes de publication" pour désigner de un nouveau mode de production de diffusion du littéraire, qui vient travailler nos notions littéraires canoniques héritées de l'imprimé (ou surtout d'un modèle édito assez récent)
-- le texte : oralité et performance
-- l'auteur : GI commons
-- l'oeuvre : forme anthologique
+Ce que l'on qualifiera désormais de "gestes de publication" agit sur nos concepts littéraires hérités d'une culture éditoriale aujourd'hui mise à mal par le fait numérique.
+- le texte : qui dans GI se conçoit énormément sous une forme orale, liée à la performance
+- l'auteur : qui fait place à un collectif, puis une figure auctoriale ouverte
+- l'oeuvre : qui semble n'avoir ni début ni fin et qui va se cristalliser sous une forme anthologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="http://vitalirosati.com/wp-content/uploads/2017/05/extrait-instin.mp4" -->
@@ -302,15 +313,15 @@ source video: _Rue Instin, le Film - 3. le futur_ sur vimeo.com
 <!-- .element: class="source" -->
 
 
-> citation Zumthor
-
 ===
-
 video : 9min + 11min30
 
-oralité et performance
-origine de la littérature : Epopée, poésie médievale
-poiesis (le _faire_), poésie et poème
+[TEXTE] Parmi ces gestes de publication = oralisation et performativité des expériences Instiniennes.
+Problème pour l'archivage et l'analyse d'une littérature qui s'énonce et se performe, bien plus qu'elle ne se lit.
+L'idée n'est pas de dire que GI est "nouveau" et révolutionne la littérature sous l'effet du numérique.
+Au contraire, on a un retour d'une certaine conception de la littérature.
+Dans ses travaux sur l'oralité, Zumthor avait bien montré que le passage vers une culture de l'écrit avait marqué le début d'une distance que l’homme prenait envers lui-même, son éloignement de son propre corps: "Un art qui reposait sur des techniques d’assemblage, de combinaison, de collage, sans souci d’authentification des parties, recule et cède assez vite le terrain à un art nouveau, qu’anime une volonté de singularisation. La théâtralité généralisée de la vie publique commence à s’estomper, et l’espace se privatise."
+C'est justement contre cette privatisation que semble oeuvrer Instin, en renouant avec la poésie au sens étymologique (un _faire_).
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -332,7 +343,9 @@ source image: _Général Instin_ sur facebook.com
 
 ===
 
-Autorité ? le concept d’autorité en prend pour son grade. Pas besoin de demander l’autorisation pour utiliser Instin – entité en libre-service autant qu’en libre-accès. N’importe qui peut se l’approprier – comme sujet de l’écriture, comme personnage à mettre en scène, comme signature aussi. 200 personnes se sont agrégées à ce projet au fil des vingt dernières années. on pourrait parler de contributeurs plutôt que d'auteurs, d'ailleurs venus de multiples horizons (littérature, poésie, performance, arts visuels...). De l’aveu même de Chatelier, « Il est impossible de vraiment répondre à la question : Qui – ou plutôt, qu’est-ce que le Général Instin ? ».
+[AUTORITÉ] le concept d’autorité est mis en crise. Pas besoin de demander l’autorisation pour utiliser Instin – entité en libre-service autant qu’en libre-accès. N’importe qui peut se l’approprier – comme sujet de l’écriture, comme personnage à mettre en scène, comme signature aussi. 200 personnes se sont agrégées à ce projet au fil des vingt dernières années. On pourrait parler de contributeurs plutôt que d'auteurs, d'ailleurs venus de multiples horizons (littérature, poésie, performance, arts visuels...).
+
+Une expression émerge "celle de GI commons" - Instin serait donc un commun.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/CV-GI-def.jpg" -->
@@ -346,7 +359,11 @@ Autorité ? le concept d’autorité en prend pour son grade. Pas besoin de dema
 
 ===
 
-Instin opère un retour fracassant dans l’univers du livre imprimé sous la forme d’une anthologie : mosaïque de texte, collection de fragments, collectif d’écrivains, l’anthologie GI est la forme par excellence de la littérature-brouhaha.
+[OEUVRE] On a dit la difficulté avec notre corpus fantôme. Surprise: Instin opère un retour fracassant dans l’univers du livre imprimé sous la forme d’une anthologie.
+
+Inquiétude: Instin se trahirait-il ? Retour à l'imprimé comme une forme d'institutionnalisation ?
+
+Le choix de la forme anthologique doit nous rassurer et même nous conforter.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: class="hover"-->
@@ -360,7 +377,9 @@ Instin opère un retour fracassant dans l’univers du livre imprimé sous la fo
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
-L’anthologie, c’est aussi une forme éditoriale ancienne dans notre histoire littéraire et qui, pourtant, serait « la forme et le format par excellence de la civilisation numérique » selon Milad Doueihi.
+L’anthologie, c’est une forme éditoriale ancienne dans notre histoire littéraire et qui, pourtant, serait « la forme et le format par excellence de la civilisation numérique » selon Milad Doueihi (citer).
+
+L’anthologie GI est donc la forme par excellence de la littérature-brouhaha, qui permet de cristalliser à un moment donner cette mosaïque de texte, collection de fragments, collectif d’écrivains, sans pour autant en marquer l'arrêt.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="./img/mashupInstin.png" -->
@@ -720,8 +739,12 @@ objectifs : proposer d'autres catégorisations
 mais aussi d'autres formes de visualisation
 
 à partir de la Timeline, constat :
-  * on a observé que les frontières* n'étaient pas si évidentes : frontières temporelles et spatiales de l'objet
+  * on a observé que les frontières n'étaient pas si évidentes : frontières temporelles et spatiales de l'objet
+  * frontières ontologiques :
+  - documents d'archive historique
+  - catégories de Remue qui mélange texte de fiction + archivage de leur propre travail
 
+Timeline = illustration de notre corpus fantôme, sans véritable début ni fin.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinPapier.png" -->
@@ -730,9 +753,12 @@ mais aussi d'autres formes de visualisation
 
 ===
 
-des spins-offs (publications papier sous le nom d'Instin):
+La particularité des spins-offs, qui sont plus récent = publications papier sous le nom d'Instin :
 * Climax : réflexion sur l'archive
 * Spoon River : côté anthologique qui revient
+
++ réinscrition dans la forme papier
++ et évolution d'instin en Autorité
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/adamique.png" -->
@@ -748,14 +774,10 @@ Lire le texte.
 
 ===
 
-confrontation entre l'objet littéraire et l'objet historique (l'histoire est de toutes les façons en construction, pas en opposition avec la fiction)
+La question du H - dont la disparition ne fait finalement que rendre plus présente la question historique, pose question : confrontation entre l'objet littéraire et l'objet historique ?
+Plutôt, idée que l'histoire est de toutes les façons en construction, pas en opposition avec la fiction.
 
-Chronologie linéaire :
-
-du réel au récit : le point d'origine
-  la photographie du vitrail VS la chronologie de "vrai" général
-
-et comment l'un façonne l'autre.
+On pourrait se demander si, finalement, notre chronologie linéaire ne devrait pas se transformer en cercle où le réel viendrait mordre la queue du récit : la photographie du vitrail serait un point de basculement entre la chronologie de "vrai" général et celle du GI - qui finalement se sont mutuellement façonnés.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg"-->
@@ -769,11 +791,8 @@ Qu'est ce qui a permis à GI de fonctionner ?
 ===
 
 L'intuition qu'Instin est davantage qu'un terrain de jeu : il semble pouvoir révéler quelque chose de notre mémoire collective, de notre identité.
-la question de l'histoire, de l'origine
 
-La symbolique du général
-
-les ingrédients du mème
+Il y a dans GI tous les ingrédients du mème.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/errants.png"-->
