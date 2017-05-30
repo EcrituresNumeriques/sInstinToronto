@@ -1,4 +1,7 @@
-## Éditorialisation et littérature: le cas du Général Instin
+<!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
+<!-- .slide: class="hover"-->
+
+## Éditorialisation et littérature le cas du Général Instin
 &nbsp;
 
 Enrico Agostini-Marchese, Servanne Monjour,  
@@ -154,10 +157,10 @@ Bref, nous avons un corpus assez complexe - un corpus fantôme.
 <!-- .slide: data-background-image="img/sp38.png" -->
 <!-- .slide: class="hover"-->
 
-### Méthodologie
+### Instin Studies
 
-* Recherche et collecte du corpus
-* Chaîne d'archivage et d'édition
+* Recherche, collecte et indexation du corpus
+* Chaîne d'archivage, encodage et édition
 * Exploration des données
 * Réflexion épistémologique sur le projet
 
@@ -167,7 +170,15 @@ source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
 
 ===
 
-Notes de présentation
+Quel est notre projet ?
+
+Le projet a été motivé à la fois par la curiosité et par quelques intuitions sur le fait qu'il y avait là quelque chose à creuser.
+
+Devant un tel corpus, nous avons procédé de manière très organique, en distinguant 4 tâches, menées pratiquement en parallèle.
+
+Réflexion théorique :
+  * ontologie d'instin
+  * épistémologie du projet avec la fonction de l'archive
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/inventaireAtom.png" -->
@@ -175,24 +186,34 @@ Notes de présentation
 
 ### _inventaire.xml_
 
-* Captation + indexation :
+* Recherche, collecte et indexation :
 
   1. Exploration du corpus par propagation hypertextuelle
   2. Captation systématique (en cours)
   3. Ajout de sources antérieures à GI
 
-Actuellement <i class="fa fa-arrow-right"></i> 74 _manifestations_ (dont 90% sources web)
+Actuellement <i class="fa fa-arrow-right"></i> 76 _manifestations_ (dont 90% sources web)
 
 ===
 
+Nous sommes partis d'un texte (pourquoi celui là : par hasard) : nous l'avons indexé, puis nous avons suivi le premier lien, et nous avons créé l'item-002, et ainsi de suite. Démarche pas tout à fait arbitraire car guidée par l'idée que les textes s'écrivaient ensemble, se répondaient entre eux, et formaient en fait une certaine unité, informe pour le moment.
+L'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin.
+A partir de 10, nous avons créé un fichier inventaire en xml et nous avons poursuivi cette approche par propagation hypertextuelle jusqu'à 30 items, avant de passer à une captation systématique, en s'appuyant aux rubriques du site Remue.net
+
+Cette captation est en cours.
+
+mais dans le meme temps il nous a semblé pertinent d'aller chercher des éléments pré-instinien, ceux dont servanne nous a parlé, notamment pour tenter de cerner Hinstin, au moins dans le temps.. timeline a suivre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/data-workflow.png" data-background-size="contain" -->
 
 ===
 
-on retrouve l'inventaire, les sources et la captation web des sources,
-un script vient encoder ces sources en TEI.
+on retrouve les différentes étapes : Collection, encodage de l'archive, exploration des données, éditorialisation.
+
+avec l'inventaire, les sources et la captation web des sources,
+
+un script vient encoder ces sources en TEI et la mise en place d'une base de documents XML.
 
 choix de la TEI : une approche initialement centrée sur le texte, même si on se rend compte progressivement à quel point les médias sont essentiels dans le paysage que dessine le corpus.
 
@@ -452,22 +473,22 @@ Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/Composition3Graphes.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
 <!--  .slide: class="hover"-->
 
 * un ensemble ouvert et dynamique, mais fini
-* centralité de certains acteurs et plateformes
 * deux structures classiques :
   1. organisation arborescente
   2. organisation rhizomatique
+* centralité de certains acteurs et plateformes
 
 ===
-
-En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
-
 L'archivage en cours de GI nous amène finalement à cerner le corpus en un ensemble fini. Avec un nombre d’auteurs, de contributions, de plateformes maîtrisables. Elle nous montre par ailleurs que c'est un corpus organisé et distribué dans des rubriques identifiées.
 
 Il y a là deux organisations qui se font face : celle arborescente des plateformes (voir les rubriques de Remue.net), et celle rhizomatique des textes hyperliées.
+
+En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
+
 
 Ici, nos premiers pas dans la fouille de données : extraire tous les liens contenus dans le corps de texte du corpus et à produire une matrice d'adjacence à partir de ces liens. Cela nous donne un réseau de documents que nous avons pu spatialiser.
 
@@ -544,14 +565,16 @@ _Base acide_, Anne Kawala (2013)
 
 ===
 
-Et ainsi, ces différentes manifestations produisent ensemble un archipel dont les contours sont finalement relativement identifiables, et dont la fonction peut être qualifiée de dispositive.
+Et ainsi, ces différentes manifestations produisent ensemble un archipel dont les contours sont finalement relativement identifiables.
 
-Ici, en glissant du concept à l'adjectif, nous abandonnons le _dispositif_, mais sans en abandonner la fonction. C'est l'idée qu'a introduit Louise Merzeau à travers ses écrits lorsqu'elle parle d'_action dispositive_, c'est-à-dire d'une action à la fois opérée dans la cadre d'un dispositif mais aussi contributive et constitutive du dispositif.
+Pour mieux penser ce dispositif, nous faisons appel au glissement syntaxique introduit par Louise Merzeau et qui nous semble particulièrement pertinent et opérant :
+Louise parle en 2013 d'_action dispositive_, c'est-à-dire d'une action à la fois opérée dans la cadre d'un dispositif mais aussi contributive et constitutive du dispositif, puis de rhétorique dispositive. En 2016, elle parle encore de rhétorique dispositive, cette capacité d'écrire et de nous écrire dans l'environnemnt numérique ou environnement-dispositif.
+
+En glissant du concept à l'adjectif, nous abandonnons le _dispositif_, mais sans en abandonner la fonction.
+
 Ainsi, il n’y a pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont des _écritures dispositives_.
 
-Ce glissement n'est pas anodin, il permet de se rapprocher de la nature du dispositif Instin, en tant que média, ou en tant que milieu, mais il fait également le pont avec la notion d'éditorialisation, et comment la nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture.
-
-
+Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même du dispositif Instin, en tant que média, ou en tant que milieu, et par ailleurs d'invoquer la théorie de l'éditorialisation pour comprendre comment la nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture. Ce qui permet notamment de penser les pratiques d'écritures et de lectures non pas de facon hors-sol, mais liées par essence aux dispositifs ou plus exactement à leur milieu.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/textopoly3.jpg" data-background-size="cover" -->
@@ -562,9 +585,7 @@ Ce glissement n'est pas anodin, il permet de se rapprocher de la nature du dispo
 
 Reste à caractériser ce milieu dispositif qu'est Instin, à en identifier les dynamiques d'autorité et les modalités de ce milieu.
 
-Est-ce un rizhome ?
-
-pour lancer Enrico
+La figure du rhizome nous vient à l'esprit.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rhizome.jpg" -->
@@ -868,14 +889,19 @@ Problématique d'étude littéraire : la perte chez les surréalistes
 
 
 ===
-fidèle à nos questions de recherche, nous pouvions pas penser l'archivage sans penser l'éditorialisation de l'archive.
+fidèle à nos questions de recherche, nous pouvions pas penser l'archivage sans penser l'éditorialisation de l'archive, en considérant que l'espace que nous essayons de construire pourrait nous permettre de comprendre l'espace, ou le nomos Instin.
 
-C’est en quelque sorte une première étape d’éditorialisation d’une archive et ce processus d’éditorialisation nous projette dans une double dynamique :
+l'éditorialisation nous projette dans une double dynamique :
 
 * dynamique d’ouverture : dans la continuité de l’esprit du Général Instin, cette éditorialisation pourrait avoir vocation à devenir publique, accessible, appropriable.
-* dynamique réflexive sur notre projet : en faisant le pari que la conception du dispositif d’éditorialisation de l’archive nous éclairera sur le dispositif GI lui-même.
+  * ce qui nous fait poser la question : sommes nous certains que toute cette production scientifique est un épiphénomène lié à instin, ou participe-t-elle d'instin ? est-on en train de produire sur la matrice instin, nous sommes nous vraiment extraits de la rhétorique instinienne ?
+* dynamique réflexive ou peut-être récursive sur notre projet : en faisant le pari que la conception du dispositif d’éditorialisation de l’archive nous éclairera sur le dispositif GI lui-même.
 
 Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
+
+Nous sommes encore au tout début du projet, c'est un projet extrêmement riche qui nous ouvrent de nouvelles questions de recherche toutes les semaines.
+
+La démarche d'éditorialiser l'archive en cours de construction participe aussi de cette volonté d'ouvrir le projet à la collaboration et à des approches complémentaires des nôtres.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
