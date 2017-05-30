@@ -61,6 +61,10 @@ Comment changent les dispositifs d'écriture (production/ circulation / légitim
 
 ### Qu'est-ce qu'Instin ?
 
+source image: _Quand on écrira l’histoire secrète du vingt et unième siècle…_ sur remue.net  
+
+<!-- .element: class="source" -->
+
 ===
 
 Notes de présentation
@@ -68,7 +72,9 @@ Notes de présentation
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
 
-source image : remue.net/  <!-- .element: class="source" -->
+source image: _introduction au feuilleton collectif Général Instin_ sur remue.net
+
+<!-- .element: class="source" -->
 ===
 
 Une photographie, prise par Juliette Soubrier en 1997. Il s'agit de la photo d'un vitrail qui orne une tombe, la tombe du Général Hinstin, mort en 1905. Le vitrail s'est oxidé avec le temps et laisse désormais apparaitre cette figure fantomatique.
@@ -78,7 +84,7 @@ La même année (1997) Patrick Chatelier, écrivain français, reprend cette pho
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/revueGeste.png" data-background-size="contain"-->
 
-source image : revue-geste.fr/  <!-- .element: class="source" -->
+source image: revue-geste.fr  <!-- .element: class="source" -->
 ===
 
 Cette photo du Général va inspirer les artistes présents, et marquer le début d'un collectif assez informel, qui donnera lieu à quelques publications papier - et à différents atelier littéraires (+/- formels là aussi).
@@ -88,10 +94,10 @@ Entre temps, Hinstin a perdu son "H" qui le faisait personnage historique, pour 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-026.png" data-background-size="contain" -->
 
+source image: remue.net
 
-<!-- ![Remue.net](img/item-026.png) -->
+<!-- .element: class="source" -->
 
-source image : remue.net/  <!-- .element: class="source" -->
 ===
 
 Rapidement, insvestissement de la plateforme Remue.net, qui va jouer un rôle d'agrégateur / centralisateur des productions consacrées à Instin : poèmes, récits, beaucoup d'images, des vidéos et enregistrements (car bcp de lectures et d'ateliers commencent à être archivés).
@@ -100,8 +106,7 @@ GI devient donc un hypertexte géant.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/item-036.png" data-background-size="contain" -->
 
-
-source image : generalinstin.net/  <!-- .element: class="source" -->
+source image: generalinstin.net  <!-- .element: class="source" -->
 
 ===
 
@@ -109,6 +114,7 @@ Des expériences plus ponctuelles sur d'autres plateformes, en gagnant leur auto
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/toutesLesImages.png" -->
+
 
 
 ===
@@ -119,8 +125,7 @@ Identité visuelle - notamment autour du vitrail (mais nous avons identifié 3-4
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Hinstin-famille.jpg" -->
 
-
-source image : BNF  <!-- .element: class="source" -->
+source image: BNF  <!-- .element: class="source" -->
 
 ===
 
@@ -131,6 +136,7 @@ Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnés.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corpusFantome.png" -->
 
+source image: _lexique généraliste_ sur remue.net
 
 ===
 
@@ -148,6 +154,10 @@ Bref, nous avons un corpus assez complexe - un corpus fantôme.
 * Chaîne d'archivage et d'édition
 * Exploration des données
 * Réflexion épistémologique sur le projet
+
+source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
+
+<!-- .element: class="source" -->
 
 ===
 
@@ -194,11 +204,19 @@ Le choix reste pertinent dans tous les cas, car la TEI nous donne toute latitude
 2. Question dispositive
 3. Question ontologique
 
+source image: _Traits 2_ sur remue.net
+
+<!-- .element: class="source" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/00-schema1-01floucinetique-2.jpg" data-background-size="contain" -->
 
 ## Question littéraire
+
+source image: _Instin, plans de coupe, vues générales._ sur remue.net
+
+<!-- .element: class="source" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
@@ -210,6 +228,11 @@ Le choix reste pertinent dans tous les cas, car la TEI nous donne toute latitude
 * Un personnage de fiction
 * L'Histoire et l'histoire
 
+source image: _La place du mort_ sur remue.net
+
+<!-- .element: class="source" -->
+
+
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -220,6 +243,11 @@ Le choix reste pertinent dans tous les cas, car la TEI nous donne toute latitude
 * Occupation des marges
 * Dissémination sur plusieurs supports/plateformes
 * Investissement de l'espace public
+
+source image: _Général Instin_ sur facebook.com
+
+<!-- .element: class="source" -->
+
 
 ===
 
@@ -252,6 +280,11 @@ Notes de présentation
 
 ### Gestes de publication
 
+source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
+
+<!-- .element: class="source" -->
+
+
 ===
 On parlera donc de "gestes de publication" pour désigner de un nouveau mode de production de diffusion du littéraire, qui vient travailler nos notions littéraires canoniques héritées de l'imprimé (ou surtout d'un modèle édito assez récent)
 - le texte : oralité et performance
@@ -259,12 +292,12 @@ On parlera donc de "gestes de publication" pour désigner de un nouveau mode de 
 - l'oeuvre : forme anthologique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="/home/nicolas/Vidéos/extrait-instin.mp4" -->
+<!-- .slide: data-background-video="http://vitalirosati.com/wp-content/uploads/2017/05/extrait-instin.mp4" -->
 
 ### Oralité, le retour
 
 
-source: https://vimeo.com/138619730
+source video: _Rue Instin, le Film - 3. le futur_ sur vimeo.com
 
 <!-- .element: class="source" -->
 
@@ -291,6 +324,11 @@ poiesis (le _faire_), poésie et poème
 > Patrick Chatelier  
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+source image: _Général Instin_ sur facebook.com
+
+<!-- .element: class="source" -->
+
 
 ===
 
@@ -633,7 +671,7 @@ On a dit que l'édito produit l'espace: mais qu'est-ce que l'espace?
 Notes
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instinDoeuvre.png" -->
+<!-- .slide: data-background-image="img/nomos.jpg" -->
 <!-- .slide: class="hover"-->
 
 ## Espace et _nomos_
