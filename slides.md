@@ -21,7 +21,7 @@ CSDH-SCHN 2017 - Congress 2017 @ Toronto
 
 * Problématique générale
 * Le cas Instin
-* Questions de recherche :
+* Axes de recherche :
   1. Question littéraire
   2. Question dispositive
   3. Question ontologique
@@ -144,10 +144,10 @@ Bref, nous avons un corpus assez complexe - un corpus fantôme.
 
 ### Méthodologie
 
-1.  Recherche et collecte du corpus
-2.  Chaîne d'archivage et d'édition
-3.  Exploration des données
-4.  Réflexion épistémologique sur le projet
+* Recherche et collecte du corpus
+* Chaîne d'archivage et d'édition
+* Exploration des données
+* Réflexion épistémologique sur le projet
 
 ===
 
