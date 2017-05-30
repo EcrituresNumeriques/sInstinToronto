@@ -149,6 +149,8 @@ Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnés.
 
 source image: _lexique généraliste_ sur remue.net
 
+<!-- .element: class="source" -->
+
 ===
 
 Bref, nous avons un corpus assez complexe - un corpus fantôme.
