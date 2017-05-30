@@ -1,4 +1,4 @@
-## Éditorialisation et littérature: le cas du Général Instin
+****## Éditorialisation et littérature: le cas du Général Instin
 &nbsp;
 
 Enrico Agostini-Marchese, Servanne Monjour,  
@@ -384,9 +384,9 @@ Le dispositif revêt notamment un caractère déterministe, en particulier chez 
 
 Ainsi la première question que l'on s'est posé  : quel est le dispositif Instin ? Quel est l'agencement des forces et des autorités qui ont engendré son écriture.
 
-Qui écrit ? où, mais aussi comment écrit on Instin ? Y a t il des motifs récurrents et si oui, d'où viennent-ils ? cad aussi, qu'est ce qui _prédispose_ l'écriture du GI ?
+Qui écrit ? où ? mais aussi comment écrit-on Instin ? Y a t il des motifs récurrents et si oui, d'où viennent-ils ? cad aussi, qu'est ce qui _prédispose_ l'écriture du GI ?
 
-La première intuition, est bien sûr qu'il n'y a pas de dispositif. Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc.
+Première intuition: il n'y a pas de dispositif : Les méta-discours qui accompagnent les différents fragments d'instin insistent sur le fait qu'instin est un projet sans forme, sans autorité, que tout à chacun peut s'approprier le général, produire un texte, commettre une performance, etc.
 
 Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique (rhétorique dispositive).
 
@@ -431,7 +431,7 @@ Ici, nos premiers pas dans la fouille de données : extraire tous les liens cont
 
 ![](img/20170509_1_white.png) <!-- .element: width="60%" -->
 
-_Forced-based spatialisation_  <!-- .element: style="font-size: 1.4rem" -->
+_Forced-based spatialisation (Fruchterman Reingold)_  <!-- .element: style="font-size: 1.4rem" -->
 
 ===
 Une première spatialisation (Fruchterman Reingold)
@@ -440,7 +440,7 @@ utilisé pour ces premières exploration pour garder un visualisation relativeme
 
 réseau de documents, nous montre très clairement que le corpus s'agence et se partitionne
 
-Mais révèle aussi des formes d'écritures comme ce texte dont chaque terme est associé à une notice de wiktionnary.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -449,7 +449,7 @@ Mais révèle aussi des formes d'écritures comme ce texte dont chaque terme est
 Centralité de vecteur propre  <!-- .element: style="font-size: 1.4rem" -->
 
 ===
-Ici un calcul de centralité vient confirmer qu'il existe dans ce corpus des hubs, des textes plus importants que les autres, davantage cités que les autres, ...
+Ainsi, un calcul de centralité vient confirmer qu'il existe dans ce corpus des hubs, des textes plus importants que les autres, davantage cités que les autres, ...
 
 (centralité de vecteur propre (eigen vector))
 
@@ -457,8 +457,8 @@ Ici un calcul de centralité vient confirmer qu'il existe dans ce corpus des hub
 
 
 
-![](img/20170509_3_remue1524.png) <!-- .element: width="45%" -->
-![](img/item-002.png) <!-- .element: width="45%" -->
+![](img/20170509_3_remue1524.png) <!-- .element: width="50%" -->
+![](img/item-002_crop.png) <!-- .element: width="40%" -->
 
 _La campagne d’Égypte_, Patrice Chatelier (2006)  
 
@@ -467,6 +467,8 @@ _La campagne d’Égypte_, Patrice Chatelier (2006)
 ===
 comme c'est le cas de La Campagne d'Egypte de Patrice Chatelier, un des premiers textes du GI sur remue.net.
 
+peut-être biaisé par le fait que notre première approche pour la collection du corpus (pour les 30 premiers items) a été de procéder par propagation à partir des liens hypertextes, et que donc nécessairement, les premiers items collectés sont particulièrement connectés entre eux.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ![](img/20170509_3_white.png) <!-- .element: width="60%" -->
@@ -474,18 +476,21 @@ comme c'est le cas de La Campagne d'Egypte de Patrice Chatelier, un des premiers
 Modularité  <!-- .element: style="font-size: 1.4rem" -->
 
 ===
-Et finalement, le calcul de modularité nous donne une partition en x "communautés",
+le calcul de modularité nous donne une partition en une dizaine de "communautés", ce qu'on n'interprétera pas à ce stade à cause d'un corpus incomplet, mais cela vient ...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/20170509_3_generalinstin_white.png) <!-- .element: width="60%" -->
+![](img/20170528_3_remue6133.png) <!-- .element: width="55%" -->
+![](img/remue6133_baseAcide.png) <!-- .element: width="40%" -->
 
-la source _generalinstin.net_  
+_Base acide_, Anne Kawala (2013)  
 
 <!-- .element: style="font-size: 1.4rem" -->
 
 ===
-qui isole notamment notre seconde source : generalinstin.net dont les pages se citent massivement.
+... aussi réveler **des formes d'écritures**, comme ce texte dont une trentaine de termes sont associés à une notice de wiktionnary.
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/rubon622.jpg"  -->
@@ -500,9 +505,8 @@ Et ainsi, ces différentes manifestations produisent ensemble un archipel dont l
 Ici, en glissant du concept à l'adjectif, nous abandonnons le _dispositif_, mais sans en abandonner la fonction. C'est l'idée qu'a introduit Louise Merzeau à travers ses écrits lorsqu'elle parle d'_action dispositive_, c'est-à-dire d'une action à la fois opérée dans la cadre d'un dispositif mais aussi contributive et constitutive du dispositif.
 Ainsi, il n’y a pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont des _écritures dispositives_.
 
-Reste à caractériser le milieu dispositif qu'est Instin. Cela passe par une analyse du corpus, par sa description et le traitement des données rassemblées : production de cartographie des manifestations et des acteurs : identifier les dynamiques d'autorité et les modalités de ce milieu.
+Ce glissement n'est pas anodin, il permet de se rapprocher de la nature du dispositif Instin, en tant que média, ou en tant que milieu, mais il fait également le pont avec la notion d'éditorialisation, et comment la nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture.
 
-Est-ce un rizhome ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -511,6 +515,10 @@ Est-ce un rizhome ?
 ### GI, un rhizome ?
 
 ===
+
+Reste à caractériser ce milieu dispositif qu'est Instin, à en identifier les dynamiques d'autorité et les modalités de ce milieu.
+
+Est-ce un rizhome ?
 
 pour lancer Enrico
 
@@ -529,7 +537,15 @@ pour lancer Enrico
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/machine_guerre.jpg" data-background-size="cover" -->
+<!-- .slide: class="hover"-->
+
 ### Machine de guerre
+
+* Question littéraire :
+  * La photo comme pivot
+  * La pluralité des formes d’écriture (_Littérature brouhaha_)
+* Question numérique :
+  * Internet, et le numérique, ne sont pas que réseau
 
 ===
 
@@ -542,7 +558,6 @@ Enrico lance Marcello sur l'éditorialisation
 
 ### La notion d'éditorialisation
 
-
 * **2004-2007: apparition du mot**
   * Une sorte d'édition dans l'environnement numérique
   * Bachimont : passage d'un document non-numérique à un document numérique
@@ -550,8 +565,6 @@ Enrico lance Marcello sur l'éditorialisation
 * **2008: le terme s'institutionnalise**
   * Sens public: formes de production et de circulation de la connaissance en environnement numérique
   * Laboratoire MSH: Pratiques interdisciplinaires et circulation du savoir : vers une éditorialisation des SHS (Wormser, Vitali-Rosati)
-
-
 
 ===
 (marcello est lancé)
@@ -623,9 +636,13 @@ Notes
 <!-- .slide: data-background-image="img/instinDoeuvre.png" -->
 <!-- .slide: class="hover"-->
 
-## Espace et autorité
+## Espace et _nomos_
 
-- espace et _nomos_
+- Milieu
+- Technique/technologie
+- Instances de l’autorité
+- Le symbolique et l’imaginaire
+
 
 ===
 
@@ -704,6 +721,7 @@ et comment l'un façonne l'autre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg"-->
+<!-- .slide: class="hover"-->
 
 ### Pourquoi le GI ?
 
@@ -729,6 +747,7 @@ Lire le texte
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/G.I.-15h26--.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
 ### Imaginaire/réel
 
